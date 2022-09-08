@@ -17,46 +17,10 @@ import Social from 'pages/CommonSection/Social';
 const layout1 = props => {
     return (
         <React.Fragment>
-            {/* import Header */}
-            <Header />
+            {/* import Section */}
 
             <Section />
-
-            {/* import Services */}
-            <Services />
-
-            {/* import AboutUs */}
-            <AboutUs />
-
-            {/* import WebsiteDesc */}
-            <WebsiteDesc />
-
-            {/* import Pricing */}
-            <Pricing />
-
-            {/* import Team */}
-            <Team />
-
-            {/* import Process */}
-            <Process />
-
-            {/* imort Testimonials */}
-            <Testimonials />
-
-            {/* import GetStart */}
-            <GetStart />
-
-            {/* import Blog */}
-            <Blog />
-
-            {/* import Contact */}
-            <Contact />
-
-            {/* import Social Icon */}
-            <Social />
-
-            {/* import Footer */}
-            <Footer />
+    
 
         </React.Fragment>
     );
